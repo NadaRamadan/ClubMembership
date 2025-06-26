@@ -119,3 +119,4 @@ D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\refint\ClubMe
 D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ClubMembership.pdb
 D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ClubMembership.genruntimeconfig.cache
 D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ref\ClubMembership.dll
+D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ClubMembership.sourcelink.json
