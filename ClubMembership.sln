@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClubMembership", "ClubMembership\ClubMembership.csproj", "{79A2250C-B8BC-4173-8D30-B8C6F1D6D6C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldValidatorAPI", "FieldValidatorAPI\FieldValidatorAPI.csproj", "{09470B48-CAFC-4645-A1A2-298BCE57EBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79A2250C-B8BC-4173-8D30-B8C6F1D6D6C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79A2250C-B8BC-4173-8D30-B8C6F1D6D6C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79A2250C-B8BC-4173-8D30-B8C6F1D6D6C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79A2250C-B8BC-4173-8D30-B8C6F1D6D6C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09470B48-CAFC-4645-A1A2-298BCE57EBA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09470B48-CAFC-4645-A1A2-298BCE57EBA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09470B48-CAFC-4645-A1A2-298BCE57EBA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09470B48-CAFC-4645-A1A2-298BCE57EBA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
