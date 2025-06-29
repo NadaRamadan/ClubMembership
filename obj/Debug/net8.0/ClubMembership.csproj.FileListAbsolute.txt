@@ -120,3 +120,8 @@ D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ClubMembershi
 D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ClubMembership.genruntimeconfig.cache
 D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ref\ClubMembership.dll
 D:\dot net projects\ClubMembership\ClubMembership\obj\Debug\net8.0\ClubMembership.sourcelink.json
+D:\dot net projects\ClubMembership\ClubMembership\bin\Debug\net8.0\FieldValidatorAPI.deps.json
+D:\dot net projects\ClubMembership\ClubMembership\bin\Debug\net8.0\FieldValidatorAPI.runtimeconfig.json
+D:\dot net projects\ClubMembership\ClubMembership\bin\Debug\net8.0\FieldValidatorAPI.exe
+D:\dot net projects\ClubMembership\ClubMembership\bin\Debug\net8.0\FieldValidatorAPI.dll
+D:\dot net projects\ClubMembership\ClubMembership\bin\Debug\net8.0\FieldValidatorAPI.pdb
