@@ -10,7 +10,7 @@ namespace ClubMembership.FieldValidators
     public interface  IFieldValidator
     {
         void  InitializeValidatorDelegates();
-        string[] fieldArray {  get;  }
+        string[] FieldArray {  get;  }
         FieldValidatorDel ValidatorDel { get; }
 
     }
