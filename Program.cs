@@ -1,10 +1,17 @@
-﻿namespace ClubMembership
+﻿using System;
+using ClubMembership;
+using ClubMembership.Views;
+using Microsoft.EntityFrameworkCore.Metadata;
+namespace ClubMembership
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Views.IView mainView = Factory.GetMainViewObject();
+            mainView.RunView();
+
+            Console.ReadKey();
         }
     }
 }
